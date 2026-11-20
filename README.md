@@ -1,6 +1,4 @@
 # PC-Rebuild-Project-Computer-Hardware-System-Fundamentals
-# PC Rebuild Project | Computer Hardware & System Fundamentals
-
 This project focuses on rebuilding a desktop computer from the ground up to develop a deeper understanding of computer hardware, system architecture, and the purpose of individual components.
 
 Throughout this project, I explore the functionality and importance of essential PC components, including the CPU, GPU, motherboard, RAM, storage devices, power supply, and cooling systems. I document the assembly process, examine how each component works, and learn how hardware compatibility impacts overall system performance, reliability, and stability.
